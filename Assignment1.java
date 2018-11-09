@@ -5,7 +5,7 @@ public class Assignment1{
 
 	public static void main(String[] args) {
 		System.out.println("Aaron Jordan");
-		System.out.print("310 Kawameeh Lane, Union, NJ, 07083");
+		System.out.print("303 Makeup Lane, Nashville, TN, 07433");
 		System.out.println();
 		System.out.println("Computer Science");
 		
