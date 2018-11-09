@@ -1,3 +1,4 @@
+//These variables should be named differently since it can get confusing to follow.
 public class Ch4Lab4 {
 	public static void main(String[] args) {
 		String a, b, c, d, e, f, g, x, y, z;
